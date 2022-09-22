@@ -1,3 +1,3 @@
-# Coding-projects
+# Resume Coding Projects
 
-These are the major coding projects that I have worked on
+These are the coding projects that are listed on my resume
