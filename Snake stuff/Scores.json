@@ -1,0 +1,41 @@
+{
+  "Version1 Scores": [
+    17,
+    34
+  ],
+  "Version2 Scores": [
+    39,
+    42,
+    7,
+    12,
+    27,
+    33,
+    48,
+    33,
+    23,
+    47,
+    48,
+    23,
+    29,
+    26,
+    21,
+    46,
+    34,
+    29,
+    26,
+    30,
+    33
+  ],
+  "User Scores": [
+    20
+  ],
+  "User Average": 20.0,
+  "Version1 Average": 25.5,
+  "Version2 Average": 31.15,
+  "User Max": 20,
+  "Version1 Max": 34,
+  "Version2 Max": 48,
+  "# of User Scores": 1,
+  "# of Version 1 Scores": 2,
+  "# of Version 2 Scores": 20
+}
